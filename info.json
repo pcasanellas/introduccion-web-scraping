@@ -1,1 +1,23 @@
-{}
+{
+    "https://www.imdb.com/title/tt8946378/": {
+        "title": "Knives Out",
+        "date": "2019",
+        "director": "Rian Johnson",
+        "genre": "Comedy Crime Drama Mystery Thriller",
+        "duration": ""
+    },
+    "https://www.imdb.com/title/tt4633694/": {
+        "title": "Spider-Man: Un nuevo universo",
+        "date": "2018",
+        "director": "Bob Persichetti",
+        "genre": "Animation Action Adventure Family Sci-Fi",
+        "duration": "117 min143 min"
+    },
+    "https://www.imdb.com/title/tt4154796/": {
+        "title": "Vengadores: Endgame",
+        "date": "2019",
+        "director": "Anthony Russo",
+        "genre": "Action Adventure Sci-Fi",
+        "duration": "181 min"
+    }
+}
